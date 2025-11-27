@@ -39,3 +39,7 @@ I build scalable web applications and intelligent AI solutions. Currently focuse
   <img src="https://github-readme-stats.vercel.app/api?username=everyoneexe&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everyoneexe&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=everyoneexe&bg_color=ffffff&color=586069&line=1793d1&point=ffffff&hide_border=true" alt="Activity Graph" />
+</p>
