@@ -8,7 +8,6 @@ I build scalable web applications and intelligent AI solutions. Currently focuse
 
 - 🔭 I’m currently working on **Advanced AI Models**
 - 💻 My daily driver is **Arch Linux** with **Niri** compositor.
-- 🌍 Check out my projects at **[everyone.com.tr](https://everyone.com.tr)**
 
 ---
 
