@@ -29,12 +29,3 @@ I build scalable web applications and intelligent AI solutions. Currently focuse
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 📊  GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=everyoneexe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everyoneexe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
