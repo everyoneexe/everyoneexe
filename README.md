@@ -1,6 +1,5 @@
 # Hi there, I'm a Full Stack Developer 👋
 
-[![Website](https://img.shields.io/website?label=everyone.com.tr&style=for-the-badge&url=https%3A%2F%2Feveryone.com.tr&logo=google-chrome&logoColor=white&color=1a1b26)](https://everyone.com.tr)
 [![OS](https://img.shields.io/badge/OS-Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![WM](https://img.shields.io/badge/WM-Niri-000000?style=for-the-badge&labelColor=1a1b26)](https://github.com/YaLTeR/niri)
 
